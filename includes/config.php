@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASS','');
+define('DB_PASS','@Mj37055765');
 define('DB_NAME','smarthr');
 // Establish database connection.
 try
